@@ -1,14 +1,15 @@
-# **OOPS Java Programs – Practicals Submission**
+**Object Oriented Paradigm Practicals – Java Programs**
 
 **Name:** Neeshna Lakshmi H  
 **Roll No:** CH.EN.U4CCE22049  
 **Department:** CCE
+**Couse code:** 19CSE204
 
-In this repository, the folder **Basic_Programs** contains 5 core Java programs developed as part of our OOPs lab practicals submission. Each program is based on key concepts like input-output, operators, data types, access modifiers, and control statements.
+In this repository, the folder **Basic_Programs** contains 5 core Java programs developed as part of the Object Oriented Paradigm lab practicals submission. Each program is based on key concepts like input-output, operators, data types, access modifiers, and control statements.
 
 ---
 
-## **Program List & Descriptions**
+**Program List & Descriptions**
 
 ### Program 1 – Scanner Input/Output Program
 Basic program using Scanner to take student details like name, roll number, department, course, and subject. Demonstrates input-output handling with formatting.

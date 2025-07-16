@@ -1,4 +1,4 @@
-# **OOPS Basic Java Programs – Practicals Submission**
+# **OOPS Java Programs – Practicals Submission**
 
 **Name:** Neeshna Lakshmi H  
 **Roll No:** CH.EN.U4CCE22049  
